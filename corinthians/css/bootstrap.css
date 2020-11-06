@@ -1922,6 +1922,7 @@ pre code {
 .table-dark {
   color: #fff;
   background-color: #343a40;
+  margin-right: 10%;
 }
 
 .table-dark th,
