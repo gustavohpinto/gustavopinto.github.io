@@ -113,6 +113,14 @@
  .tabela{
   padding-top: 2%;
  }
+
+ .letra{
+   align-items: center;
+ }
+
+ audio{
+   align-items: center;
+ }
  
  abbr[title],
  abbr[data-original-title] {
